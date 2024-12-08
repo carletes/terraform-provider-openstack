@@ -25,6 +25,10 @@ website/node_modules
 *.test
 *.iml
 
+/.direnv
+/acceptance-tests-env.sh
+/devstack-env.sh
+
 website/vendor
 
 # Test exclusions
